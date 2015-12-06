@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449243553 source:c:\users\jan\elektro\3. semestr 15_16\zprs\projekt\hanysprojekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1449409631 source:c:\users\jan\elektro\3. semestr 15_16\zprs\projekt\hanysprojekt\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

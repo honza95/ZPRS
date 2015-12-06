@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446110328 source:c:\users\jan\elektro\3. semestr 15_16\zprs\priklady_05\ukazatele\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
